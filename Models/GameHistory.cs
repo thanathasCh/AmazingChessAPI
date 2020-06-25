@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace AmazingCheeAPI.Models
+namespace AmazingChessAPI.Models
 {
     public class GameHistory
     {

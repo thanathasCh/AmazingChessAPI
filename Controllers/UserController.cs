@@ -1,6 +1,6 @@
-﻿using AmazingCheeAPI.Data;
+﻿using AmazingChessAPI.Data;
 
-namespace AmazingCheeAPI.Controllers
+namespace AmazingChessAPI.Controllers
 {
     public class UserController : BaseController
     {

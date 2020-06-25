@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kBviVsuUpeqn8xSXA1uOqzyU+njnS4jSrkQQfXDL7vK7ehJaq0UKsPelsRt1R6Y+3FAnVNF7SoWmXN5Mfmhh0A==",
+  "dgSpecHash": "99AatcqXGg1uTPvE0nSHsjJ1+pDtC5wCXuApDHrED9MJ34MZkZeAWoiLdg+afo7eIHSAK2CxxxAgBYiX6GgwaA==",
   "success": true,
-  "projectFilePath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingCheeAPI\\AmazingCheeAPI.csproj",
+  "projectFilePath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thana\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

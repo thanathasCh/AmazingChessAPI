@@ -5979,11 +5979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingCheeAPI\\AmazingCheeAPI.csproj",
-      "projectName": "AmazingCheeAPI",
-      "projectPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingCheeAPI\\AmazingCheeAPI.csproj",
+      "projectUniqueName": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj",
+      "projectName": "AmazingChessAPI",
+      "projectPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj",
       "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-      "outputPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingCheeAPI\\obj\\",
+      "outputPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

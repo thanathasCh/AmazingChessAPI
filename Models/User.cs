@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AmazingCheeAPI.Models
+namespace AmazingChessAPI.Models
 {
     public class User
     {

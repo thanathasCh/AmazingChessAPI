@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingCheeAPI.csproj": {}
+    "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj": {}
   },
   "projects": {
-    "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingCheeAPI.csproj": {
+    "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingCheeAPI.csproj",
-        "projectName": "AmazingCheeAPI",
-        "projectPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingCheeAPI.csproj",
+        "projectUniqueName": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj",
+        "projectName": "AmazingChessAPI",
+        "projectPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
         "outputPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\obj\\",
         "projectStyle": "PackageReference",
@@ -52,7 +52,6 @@
               "version": "[3.1.5, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.8, )"
             }

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingCheeAPI\\AmazingCheeAPI.csproj",
-    "projectName": "AmazingCheeAPI",
-    "projectPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingCheeAPI\\AmazingCheeAPI.csproj",
-    "outputPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingCheeAPI\\obj\\",
+    "projectUniqueName": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj",
+    "projectName": "AmazingChessAPI",
+    "projectPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\AmazingChessAPI.csproj",
+    "outputPath": "C:\\All\\Work\\SelfLearning\\Amazing Chess\\AmazingChessAPI\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

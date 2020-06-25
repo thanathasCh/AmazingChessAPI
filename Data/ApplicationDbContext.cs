@@ -1,8 +1,8 @@
-﻿using AmazingCheeAPI.Models;
+﻿using AmazingChessAPI.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 
-namespace AmazingCheeAPI.Data
+namespace AmazingChessAPI.Data
 {
     public class ApplicationDbContext : DbContext
     {
