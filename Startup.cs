@@ -1,6 +1,9 @@
 using AmazingChessAPI.Data;
+using AmazingChessAPI.Interfaces;
+using AmazingChessAPI.Providers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -26,7 +29,8 @@ namespace AmazingChessAPI
                                                             options.UseSqlServer(Configuration.GetConnectionString("local")));
 
             services.AddHttpContextAccessor();
-            // services.AddTransient<a, a>();
+            services.AddTransient<IExceptionManager, ExceptionManager>();
+            services.AddTransient<IFirebaseProvider, FirebaseProvider>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

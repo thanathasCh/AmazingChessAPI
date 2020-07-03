@@ -26,7 +26,10 @@ namespace AmazingChessAPI.Data
                         .HasOne(x => x.Player2)
                         .WithMany()
                         .OnDelete(DeleteBehavior.Restrict);
-            
+
+            modelBuilder.Entity<User>()
+                        .HasIndex(x => new {x.UserName, x.Email});
+
             base.OnModelCreating(modelBuilder);
         }
         

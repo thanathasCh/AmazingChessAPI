@@ -54,3 +54,8 @@ C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\obj\Debug\netcoreapp3.1\s
 C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\obj\Debug\netcoreapp3.1\AmazingChessAPI.dll
 C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\obj\Debug\netcoreapp3.1\AmazingChessAPI.pdb
 C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\obj\Debug\netcoreapp3.1\AmazingChessAPI.genruntimeconfig.cache
+C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\bin\Debug\netcoreapp3.1\Firebase.dll
+C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\bin\Debug\netcoreapp3.1\LiteDB.dll
+C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\All\Work\SelfLearning\Amazing Chess\AmazingChessAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
