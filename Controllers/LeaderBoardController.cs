@@ -11,7 +11,7 @@ namespace AmazingChessAPI.Controllers
         public LeaderBoardController(ApplicationDbContext db) : base(db) { }
 
         [HttpGet]
-        public ActionResult FetchBoard(long userId)
+        public ActionResult FetchLeaderBoard(long userId)
         {
             var users = _db.UserScores
                            .Include(x => x.User)
